@@ -39,7 +39,7 @@ Recomendamos la revisión del Diagrama de Flujo que describe y comunica el Proye
 - métodos accesores
 
 ### :eyes: PARA MÁS INFORMACIÓN
-[VER REQUISITOS SPRINTMODULO4](docs/requisitos.pdf)
+[VER REQUISITOS SPRINTMODULO4](doc/Sprint_Java_M4.pdf)
 
 ## **AUTORES** :busts_in_silhouette:
 
