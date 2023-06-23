@@ -13,7 +13,7 @@ Recomendamos la revisión del Diagrama de Flujo que describe y comunica el Proye
 - Un cliente debe tener una o muchas visitas a terreno; y
 - Una visita a terreno debe tener una o más revisiones por cada ocasión.
 
-[VER DIAGRAMA PROYECTO](doc/DiagramaUML Sprint Modulo4.pdf)
+[VER DIAGRAMA PROYECTO](doc/diagrama.pdf)
 
 ## **CONSTRUIDO CON**
 - Java
