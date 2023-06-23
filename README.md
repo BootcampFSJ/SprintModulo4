@@ -2,7 +2,7 @@
 
 Creación colaborativa del Proyecto _"Solución tecnológica para Compañía de Prevención de Riesgos"_ (en adelante, **Proyecto** o indistintamente, **SprintModulo4**) para representar lo aprendido en el Módulo 4 _"Fundamentos de Programación en Java"_ del BootCamp _"Desarrollo de Aplicaciones Full Stack Java Trainee v2.0"_ impartido por FUDESCO en el marco de la iniciativa público - privada Talento Digital para Chile, impulsada por Fundación Chile y Fundación Kodea.
 
-El Proyecto tiene como objetivo ofrecer un sistema de prevención de riesgos, completo y a un costo económico, permitiéndoles gestionar y administrar los procesos del negocio, tales como el registro de PROFESIONALES, EMPRESA CLIENTE, USUARIO, ADMINISTRATIVO, CAPACITACIONES, ACCIDENTES y REVISIONES, así como también la coordinación entre estos, mejorando de esta forma la gestión, control, seguridad y disponibilidad de la información de las empresas, lo que se refleja en la práctica en un mejor ambiente de seguridad laboral, una mejor calidad del servicio, una disminución de las multas, y un seguimiento adecuado de los procesos.
+El Proyecto tiene como objetivo ofrecer un sistema de prevención de riesgos, completo y a un costo económico, permitiéndoles gestionar y administrar los procesos del negocio, tales como el registro de PROFESIONALES, CLIENTE, USUARIO, ADMINISTRATIVO, CAPACITACIONES, ACCIDENTES y REVISIONES, así como también la coordinación entre estos, mejorando de esta forma la gestión, control, seguridad y disponibilidad de la información de las empresas, lo que se refleja en la práctica en un mejor ambiente de seguridad laboral, una mejor calidad del servicio, una disminución de las multas, y un seguimiento adecuado de los procesos.
 
 ## **PREVISUALIZACION** :arrow_forward:
 
