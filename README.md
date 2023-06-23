@@ -15,8 +15,10 @@ Recomendamos la revisión del Diagrama de Flujo que describe y comunica el Proye
 
 [VER DIAGRAMA PROYECTO](doc/diagrama.pdf)
 
-## **CONSTRUIDO CON**
-- Java
+## **CONSIDERACIONES TÉCNICAS**
+- Proyecto escrito en lenguaje Java
+- JRE empleada para la ejecución del Proyecto: jdk-20
+- IDE de desarrollo: Eclipse IDE for Java Developers - 2023-03
 
 ### **EL PROYECTO CONTIENE LAS SIGUIENTES CLASES**
 - Usuario
